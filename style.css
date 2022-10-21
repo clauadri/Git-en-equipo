@@ -1,0 +1,14 @@
+.nav-bar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: aquamarine;
+    height: 50px;
+    background-image: url("https://www.transparenttextures.com/patterns/brushed-alum.png%22");
+    font-size: 20px;
+    font-weight: 800;
+    color: black;
+}
+.nav-bar >a{
+    text-decoration: none;
+}
